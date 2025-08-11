@@ -10,5 +10,11 @@
     "verification": "https://youtu.be/gEc2dURUjW4",
     "percentToQualify": 51,
     "password": "NA",
-    "records": []
-}
+    "records": [
+			{
+			"user": "Shrixy",
+			"link": "https://youtu.be/10xP70gjWP4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
