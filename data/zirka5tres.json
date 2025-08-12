@@ -1,29 +1,14 @@
 {
-	"id": 126,
-	"name": "Zirka5tres"
-	"author": "Mensreal",
-	"creators": [
-		"Dorami",
-		"Angryboy",
-		"Lemons",
-		"DanZmeN",
-		"Chlorines",
-		"Bransilver",
-		"Osiris GD",
-		"MarEng",
-		"Quacduc",
-		"MrKoolTrix"
+    "id": 126,
+    "name": "Zirka5Tres",
+    "tags": [
+		"Fast-Paced"
 	],
-	"verifier": "Golden",
-	"verification": "https://www.youtube.com/watch?v=Uky3BixaaDc",
-	"percentToQualify": 100,
-	"password": "040400",
-	"records": [
-		{
-			"user": "Shrixy",
-			"link": "https://youtu.be/10xP70gjWP4",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "author": "Mensreal",
+  
+    "verifier": "Mensreal",
+    "verification": "https://youtu.be/gEc2dURUjW4",
+    "percentToQualify": 51,
+    "password": "NA",
+    "records": []
 }
