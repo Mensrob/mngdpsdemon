@@ -1,21 +1,29 @@
 {
-    "id": 126,
-    "name": "Zirka5tres",
-    "tags": [
-		"Fast-Paced"
+	"id": 56779294,
+	"name": "Zirka5tres"
+	"author": "Lemon",
+	"creators": [
+		"Dorami",
+		"Angryboy",
+		"Lemons",
+		"DanZmeN",
+		"Chlorines",
+		"Bransilver",
+		"Osiris GD",
+		"MarEng",
+		"Quacduc",
+		"MrKoolTrix"
 	],
-    "author": "Mensreal",
-  
-    "verifier": "Mensreal",
-    "verification": "https://youtu.be/gEc2dURUjW4",
-    "percentToQualify": 51,
-    "password": "NA",
-    "records": [
+	"verifier": "Golden",
+	"verification": "https://www.youtube.com/watch?v=Uky3BixaaDc",
+	"percentToQualify": 100,
+	"password": "040400",
+	"records": [
 		{
-			"user": "Wonsopallonso",
+			"user": "Shrixy",
 			"link": "https://youtu.be/10xP70gjWP4",
 			"percent": 100,
-			"hz": 60
+			"hz": 360
 		}
 	]
 }
